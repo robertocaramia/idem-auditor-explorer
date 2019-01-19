@@ -1,0 +1,12 @@
+*.pyc
+*.sqlite*
+tmpd
+MANIFEST
+build
+dist
+.idea
+venv*/
+*.log
+*.conf
+.directory
+!idemaud.conf
